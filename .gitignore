@@ -3,5 +3,6 @@
 
 # But not these files
 !.gitignore
+!README.md
 !wp-content/themes/sleeky-child/*
 !wp-content/themes/sleeky/*
