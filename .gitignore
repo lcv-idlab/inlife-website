@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!wp-content/themes/sleeky-child/*
+!wp-content/themes/sleeky/*
